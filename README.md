@@ -1,14 +1,14 @@
 
-Highly motivated Software Developer, very inquisitive of things i dont know.
+Highly motivated Software Developer, very inquisitive.
 passionate about creating visaually appealing content with intresting functionality.
 
 - 🔭 I’m currently working on Express.js
 - 🌱 I’m currently learning Jest & Unit Testing
-- 👯 I’m looking to collaborate with like-minded developers and explore moe
+- 👯 I’m looking to collaborate with like-minded developers and explore more
 - 🤔 I’m looking for help with docker
 - 📫 How to reach me: bellobambo21@gmail.com
 
-<!-- $till $triving $till learning -->
+<!-- $till $triving $till learning --!>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bellobambo&count_private=true&show_icons=true&theme=radical)](https://github.com/bellobambo/github-readme-stats)
 
