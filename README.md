@@ -8,7 +8,6 @@ passionate about creating visaually appealing content with intresting functional
 - 🤔 I’m looking for help with docker
 - 📫 How to reach me: bellobambo21@gmail.com
 
-<!-- $till $triving $till learning --!>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bellobambo&count_private=true&show_icons=true&theme=radical)](https://github.com/bellobambo/github-readme-stats)
 
