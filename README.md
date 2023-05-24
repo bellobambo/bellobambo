@@ -14,3 +14,8 @@ passionate about creating visaually appealing content with intresting functional
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bellobambo&layout=compact&count_private=true&show_icons=true&theme=radical)](https://github.com/bellobambo/github-readme-stats)
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=bellobambo&theme=radical)](https://git.io/streak-stats)
+
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=bellobambo&repo=FFNC)](https://github.com/bellobambo/FFNC)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=bellobambo
+&repo=custom-syllables-break)](https://github.com/bellobambo/custom-syllables-break)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=sengkyaut&repo=MyOCR)](https://github.com/bellobambo/MyOCR)
