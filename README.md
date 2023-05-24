@@ -18,4 +18,4 @@ passionate about creating visaually appealing content with intresting functional
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=bellobambo&repo=FFNC)](https://github.com/bellobambo/FFNC)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=bellobambo
 &repo=custom-syllables-break)](https://github.com/bellobambo/custom-syllables-break)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=sengkyaut&repo=MyOCR)](https://github.com/bellobambo/MyOCR)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=bellobambo&repo=MyOCR)](https://github.com/bellobambo/MyOCR)
