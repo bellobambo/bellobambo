@@ -4,8 +4,7 @@ passionate about creating visaually appealing content with intresting functional
 
 - 🔭 I’m currently working on Express.js
 - 🌱 I’m currently learning Jest & Unit Testing
-- 👯 I’m looking to collaborate with like-minded developers and explore more
-- 🤔 I’m looking for help with docker
+- 👯 I’m looking to collaborate with like-minded developers and explore more in tech
 - 📫 How to reach me: bellobambo21@gmail.com
 
 
