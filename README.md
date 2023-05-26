@@ -5,7 +5,7 @@ passionate about creating visaually appealing content with intresting functional
 - 🔭 I’m currently working on Express.js
 - 🌱 I’m currently learning Jest & Unit Testing
 - 👯 I’m looking to collaborate with like-minded developers and explore more in tech
-- 📫 How to reach me: bellobambo21@gmail.com
+- 📫 How to reach me: bambo.bello@qclose.io
 
 
 [![ GitHub stats](https://github-readme-stats.vercel.app/api?username=bellobambo&count_private=true&show_icons=true&theme=radical)](https://github.com/bellobambo/github-readme-stats)
