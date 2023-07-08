@@ -3,7 +3,7 @@ Highly motivated Software Developer, very inquisitive.
 passionate about creating visaually appealing content with intresting functionality.
 
 - 🔭 I’m currently working on Express.js
-- 🌱 I’m currently learning Jest & Unit Testing
+- 🌱 I’m currently learning TensorFlow
 - 👯 I’m looking forward to use my skill solve problems and open to collaborate with like-minded developers and explore more in tech
 - 📫 How to reach me: bambo.bello@qclose.io
 
