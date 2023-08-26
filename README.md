@@ -1,5 +1,4 @@
-
-Highly motivated Software Developer, very inquisitive.
+Software Developer, very inquisitive.
 passionate about creating visaually appealing content with intresting functionality.
 
 - 🔭 I’m currently working on Express.js
