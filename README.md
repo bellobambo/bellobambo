@@ -1,4 +1,4 @@
-Software Developer, very inquisitive.
+Software/Web Developer, inquisitive.
 passionate about creating visaually appealing content with intresting functionality.
 
 - 🔭 I’m currently working on Express.js
