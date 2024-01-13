@@ -2,7 +2,7 @@ Software/Web Developer, inquisitive.
 passionate about creating visaually appealing content with intresting functionality.
 
 - 🔭 I’m currently working with Nextjs
-- 🌱 I’m currently learning DSA
+- 🌱 I’m currently learning Laravel
 - 👯 I’m looking forward to use my skill solve problems and open to collaborate with like-minded developers and explore more in tech
 - 📫 How to reach me: bambo.bello@qclose.io
 
