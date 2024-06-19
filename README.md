@@ -1,5 +1,4 @@
-Software, Web, Blockchain & Web3 Developer , .
-passionate about creating visaually appealing content with intresting functionality.
+Software, Web, Blockchain & Web3 Developer.
 
 - 🔭 I’m currently working with Nextjs
 - 🌱 I’m currently learning Thirdweb
