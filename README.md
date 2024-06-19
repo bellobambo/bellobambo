@@ -1,10 +1,10 @@
-Software/Web Developer, inquisitive.
+Software, Web, Blockchain & Web3 Developer , .
 passionate about creating visaually appealing content with intresting functionality.
 
 - 🔭 I’m currently working with Nextjs
-- 🌱 I’m currently learning Laravel
-- 👯 I’m looking forward to use my skill solve problems and open to collaborate with like-minded developers and explore more in tech
-- 📫 How to reach me: bambo.bello@qclose.io
+- 🌱 I’m currently learning Thirdweb
+- 👯 Bring your Ideas to life
+- 📫 How to reach me: bellobambo21@gmail.com
 
 
 [![ GitHub stats](https://github-readme-stats.vercel.app/api?username=bellobambo&count_private=true&show_icons=true&theme=radical)](https://github.com/bellobambo/github-readme-stats)
