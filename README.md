@@ -1,7 +1,7 @@
 Software, Web, Blockchain & Web3 Developer.
 
-- 🔭 I’m currently working with Nextjs
-- 🌱 I’m currently learning Thirdweb
+- 🔭 I’m currently working with expressjs
+- 🌱 I’m currently learning thirdweb
 - 👯 Bring your Ideas to life
 - 📫 How to reach me: bellobambo21@gmail.com
 
