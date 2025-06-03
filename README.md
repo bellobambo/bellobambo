@@ -1,6 +1,6 @@
 Software, Web & Wordpress Developer 
 
-- 🔭 I’m currently working with Wordpress Plugins 
+- 🔭 I’m currently working with React Native
 - 🌱 I’m currently learning Blockchain development 
 - 👯 Bring your Ideas to life
 - 📫 How to reach me: bellobambo21@gmail.com
