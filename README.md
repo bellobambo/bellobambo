@@ -1,4 +1,4 @@
-Software, Web & Wordpress Developer 
+Software, Web & Wordpress Engineer 
 
 - 🔭 I’m currently working with React Native
 - 🌱 I’m currently learning Blockchain development 
