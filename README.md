@@ -1,6 +1,6 @@
 (WWW) Web, Web3 & Wordpress Engineer.
 
-- 🔭 I’m currently working with React Native for Mobile Development 
+- 🔭 I’m currently working with React Native for Mobile Development.
 - 🌱 I’m currently learning Blockchain development 
 - 👯 Bring your Ideas to life
 - 📫 How to reach me: bellobambo21@gmail.com
