@@ -1,7 +1,7 @@
 (WWW) Web2, Web3 & Mobile dev Engineer.
 
-- 🔭 I’m currently working with React Native for Mobile Development.
-- 🌱 I’m currently learning Blockchain development.
+- 🔭 I’m currently working with Blockchain dev Tools.
+- 🌱 I’m currently learning Mobile development.
 - 👯 Bring your Ideas to life.
 - 📫 How to reach me: bellobambo21@gmail.com.
 
