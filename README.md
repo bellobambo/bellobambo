@@ -1,4 +1,4 @@
-(WWW) Web, Web3 & Wordpress Engineer.
+(WWW) Web2, Web3 & Mobile dev Engineer.
 
 - 🔭 I’m currently working with React Native for Mobile Development.
 - 🌱 I’m currently learning Blockchain development.
