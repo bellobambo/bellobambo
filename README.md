@@ -1,4 +1,4 @@
-(WWW) Web2, Web3 & Mobile dev Engineer.
+Web2, Web3 & Mobile dev Engineer.
 
 - 🔭 I’m currently working with Blockchain dev Tools.
 - 🌱 I’m currently learning Mobile development.
