@@ -3,7 +3,7 @@ Blockchain Developer.
 - 🔭 I’m currently working with Blockchain dev Tools.
 - 🌱 I’m currently learning Mobile development.
 - 👯 Bring your Ideas to life.
-- 📫 How to reach me: bellobambo21@gmail.com. 
+- 📫 How to reach me: bellobambo21@gmail.com
 
 
 [![ GitHub stats](https://github-readme-stats.vercel.app/api?username=bellobambo&count_private=true&show_icons=true&theme=neon)](https://github.com/bellobambo/github-readme-stats)
