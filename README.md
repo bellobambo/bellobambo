@@ -1,8 +1,8 @@
 Blockchain Developer.
 
 - 🔭 I’m currently working with Blockchain dev Tools.
-- 🌱 I’m currently learning Mobile development.
-- 👯 Bring your Ideas to life.
+- 🌱 I’m currently learning everyday.
+- 👯 Bring your Ideas to life on-chain.
 - 📫 How to reach me: bellobambo21@gmail.com
 
 
